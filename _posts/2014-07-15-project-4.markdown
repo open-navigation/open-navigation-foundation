@@ -1,0 +1,15 @@
+---
+title: Robot Localization
+subtitle: Multi-Sensor Fusion
+layout: default
+modal-id: 5
+date: 2014-07-15
+img: rl.png
+thumbnail: rl_thumbnail.png
+alt: image-alt
+project-url: https://github.com/cra-ros-pkg/robot_localization
+project-base: cra-ros-pkg/robot_localization
+project-date: 2015 To Present
+description: Robot Localization is a state estimation package designed to work with any number of sensors. It fuses these sensors with non-linear techniques and provides a smoothed state estimate. It can work with IMU, GPS, Odometry, external sensors, and more. Image courtasy of <a href="http://docs.ros.org/melodic/api/robot_localization/html/index.html">the documentation</a>.
+
+---

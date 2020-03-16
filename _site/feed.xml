@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Navigation Foundation</title>
+    <description>Open Navigation Foundation is a nonprofit focused on the development, maintenance, and use of open-source robotics technologies. We specialize in the domains of mobile robot navigation and manipulation and are open for partnerships with academia and industry. We support major open-source projects, consult, and produce high-quality educational materials and experiences.</description>
+    <link>https://open-navigation.github.io/open-navigation-foundation/</link>
+    <atom:link href="https://open-navigation.github.io/open-navigation-foundation/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 15 Mar 2020 19:13:31 -0700</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2020 19:13:31 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>ROS2 Navigation</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 -0800</pubDate>
+        <link>https://open-navigation.github.io/open-navigation-foundation/2020/01/01/project-5/</link>
+        <guid isPermaLink="true">https://open-navigation.github.io/open-navigation-foundation/2020/01/01/project-5/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SLAM Toolbox</title>
+        <description>
+</description>
+        <pubDate>Mon, 15 Jul 2019 00:00:00 -0700</pubDate>
+        <link>https://open-navigation.github.io/open-navigation-foundation/2019/07/15/project-6/</link>
+        <guid isPermaLink="true">https://open-navigation.github.io/open-navigation-foundation/2019/07/15/project-6/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>PCL Perception</title>
+        <description>
+</description>
+        <pubDate>Wed, 18 Jul 2018 00:00:00 -0700</pubDate>
+        <link>https://open-navigation.github.io/open-navigation-foundation/2018/07/18/project-1/</link>
+        <guid isPermaLink="true">https://open-navigation.github.io/open-navigation-foundation/2018/07/18/project-1/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Spatio-Temporal Voxel Layer</title>
+        <description>
+</description>
+        <pubDate>Mon, 16 Jul 2018 00:00:00 -0700</pubDate>
+        <link>https://open-navigation.github.io/open-navigation-foundation/2018/07/16/project-3/</link>
+        <guid isPermaLink="true">https://open-navigation.github.io/open-navigation-foundation/2018/07/16/project-3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Image Pipeline &amp; OpenCV</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0700</pubDate>
+        <link>https://open-navigation.github.io/open-navigation-foundation/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">https://open-navigation.github.io/open-navigation-foundation/2014/07/17/project-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Robot Localization</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0700</pubDate>
+        <link>https://open-navigation.github.io/open-navigation-foundation/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">https://open-navigation.github.io/open-navigation-foundation/2014/07/15/project-4/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

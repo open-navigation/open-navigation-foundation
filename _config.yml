@@ -1,0 +1,27 @@
+url: https://open-navigation.github.io
+baseurl: /open-navigation-foundation
+
+# Site settings
+title: Open Navigation Foundation
+email: navigationfoundation@gmail.com
+description: "Open Navigation Foundation is a nonprofit focused on the development, maintenance, and use of open-source robotics technologies. We specialize in the domains of mobile robot navigation and manipulation and are open for partnerships with academia and industry. We support major open-source projects, consult, and produce high-quality educational materials and experiences."
+
+exclude:
+  - README.md
+include:
+  - _pages
+  - _blog
+
+social:
+  # - title: twitter
+  #   url:
+  # - title: linkedin
+  #   url:
+  # - title: facebook
+  #   url:
+  - title: github
+    url: http://github.com/open-navigation
+
+# Build settings
+markdown: kramdown
+permalink: pretty

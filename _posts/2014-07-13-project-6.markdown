@@ -1,0 +1,15 @@
+---
+title: SLAM Toolbox
+subtitle: Mapping and Localization
+layout: default
+modal-id: 2
+date: 2019-07-15
+img: slam.png
+thumbnail: slam_thumbnail.png
+alt: image-alt
+project-url: https://github.com/SteveMacenski/slam_toolbox
+project-base: SteveMacenski/slam_toolbox
+project-date: 2019 to Present
+description: SLAM Toolbox is a 2D multi-session SLAM package built for large and dynamic environments such as retail, warehouse, factories, and outdoors. It is built using a modified version of the Open Karto library and provides a localization mode and several processing methods. It was selected by the ROS2 Technical Steering Committee to be the default supported SLAM for ROS2.
+
+---

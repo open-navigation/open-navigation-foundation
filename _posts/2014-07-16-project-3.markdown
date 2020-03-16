@@ -1,0 +1,15 @@
+---
+title: Spatio-Temporal Voxel Layer
+subtitle: 3D Perception
+layout: default
+modal-id: 3
+date: 2018-07-16
+img: stvl.png
+thumbnail: stvl_thumbnail.png
+alt: image-alt
+project-date: 2018 to 2019
+project-url: https://github.com/SteveMacenski/spatio_temporal_voxel_layer
+project-base: SteveMacenski/spatio_temporal_voxel_layer
+description: 3D perception costmap representation for highly dynamic environments. Uses novel data structured from Dreamworks animations applied to robotics for this real-time obstacle representation method. It is designed for robots processing multiple high-resolution sensors and substantially reduces resources compared to other state of the art solutions.
+
+---

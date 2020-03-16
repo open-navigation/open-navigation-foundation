@@ -1,0 +1,15 @@
+---
+title: ROS2 Navigation
+subtitle: Mobile Robotics
+layout: default
+modal-id: 1
+date: 2020-01-01
+img: nav2.png
+thumbnail: nav2_thumbnail.png
+alt: image-alt
+project-date: 2019 to Present
+project-url: https://github.com/ros-planning/navigation2
+project-base: ros-planning/navigation2
+description: Navigation framework and solution for ROS2. A highly tested and robust navigation framework specifically designed to be extended by the user. Provides capabilities for waypoint navigation, multi-robot navigation, and navigating through large and dynamic environments autonomously.  It provides a large suite of tools and tutorials for new users and seasoned developers alike.
+
+---

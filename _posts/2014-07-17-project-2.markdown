@@ -1,0 +1,15 @@
+---
+title: Image Pipeline & OpenCV
+subtitle: Computer Vision
+layout: default
+modal-id: 4
+date: 2014-07-17
+img: opencv.png
+thumbnail: opencv_thumbnail.png
+alt: image-alt
+project-date: 2013 To Present
+project-url: https://github.com/ros-perception/perception_pcl
+project-base: ros-perception/perception_pcl
+description: ROS and ROS2 tools for working with RGB and RGB-D cameras including viewing tools, stereo image correlation, depth image processing, and more. Many of these capabilities are built on top of <b>vision_opencv</b>, which we also support and built with OpenCV. Image courtasy of <a href="http://wiki.ros.org/depth_image_proc?distro=melodic">the wiki</a>.
+
+---

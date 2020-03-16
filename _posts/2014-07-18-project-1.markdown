@@ -1,0 +1,15 @@
+---
+title: PCL Perception
+subtitle: PointCloud & Depth Processing
+layout: default
+modal-id: 6
+date: 2018-07-18
+img: pcl.png
+thumbnail: pcl_thumbnail.png
+alt: image-alt
+project-date: 2013 To Present
+project-url: https://github.com/ros-perception/perception_pcl
+project-base: ros-perception/perception_pcl
+description: ROS and ROS2 interfaces to the PointCloud Library (PCL). Contains tools to convert and work with ROS messages in PCL as well as tools to use PCL capabilities as building blocks for an application.
+
+---
